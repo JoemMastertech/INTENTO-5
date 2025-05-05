@@ -808,7 +808,7 @@ rones: [
   {
     id: '5',
     nombre: 'BACARDÍ RASPBERRY 750 ML',
-    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licories/ron/bacardi-raspberri.webp',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/ron/bacardi-raspberri.webp',
     precioBotella: '$900.00',
     precioLitro: '$215.00',
     precioCopa: '$105.00'
@@ -1019,7 +1019,7 @@ vodkas: [
   {
     id: '6',
     nombre: 'SMIRNOFF 750 ML',
-    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/Smirnoff.webp',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/smirnoff.webp',
     precioBotella: '$875.00',
     precioLitro: '$220.00',
     precioCopa: '$100.00'
